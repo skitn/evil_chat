@@ -1,2 +1,2 @@
-server: bin/rails server
-assets: bin/webpack-dev-server
+server: bundle exec rails server
+assets: bundle exec webpack-dev-server
